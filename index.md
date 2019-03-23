@@ -16,4 +16,4 @@ I am also a soccer referee, I started it on september of 2014.
 Contact me via email or via GitHub.
 
 - cem.koca@student.supsi.ch
-- [Link](https://github.com/cem94)
+- my github profile [@cem94](https://github.com/cem94)
